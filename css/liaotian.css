@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #eaedf4;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contacts {
+    width: 450px;
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+
+.contacts::-webkit-scrollbar {
+    display: none;
+}
+
+.he {
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    color: #fff;
+    background: #7ec6bc;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ebe717, #7ec6bc);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ebe717, #7ec6bc);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    line-height: 40px;
+    text-align: center;
+}
+
+.lie {
+    width: 450px;
+}
+
+.lie img {
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lie img {
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/* .ziji {
+    margin-left: 200px;
+}
+  */
+
+.lie span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 40px;
+    padding: 0 5px;
+    font-size: 14px;
+    background-color: rgb(166, 253, 217);
+    height: 40px;
+    max-width: 400px;
+    border-radius: 5px;
+}
+
+.lie span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 40px;
+    padding: 0 5px;
+    font-size: 14px;
+    background-color: rgb(166, 253, 217);
+    height: 40px;
+    max-width: 400px;
+    border-radius: 5px;
+}
+
+.shuru {
+    width: 450px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+.ipttext {
+    width: 360px;
+    height: 32px;
+    border: none;
+    border-radius: 16px;
+    outline: none;
+    margin: 10px 0 0 3px;
+}
+
+.shuru button {
+    width: 55px;
+    height: 32px;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 16px;
+    background-color: #b1effe;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.ipttext {
+    padding-left: 10px;
+}

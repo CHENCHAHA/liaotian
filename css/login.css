@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contacts {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.he {
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    color: #fff;
+    background: #7ec6bc;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ebe717, #7ec6bc);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ebe717, #7ec6bc);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    line-height: 40px;
+    text-align: center;
+}
+
+.lie ul li {
+    width: 450px;
+    height: 80px;
+    line-height: 80px;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.lie ul li img {
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lie ul li span {
+    padding-left: 10px;
+}

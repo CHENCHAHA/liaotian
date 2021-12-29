@@ -1,0 +1,237 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id  */
+    src: url('iconfont.ttf?t=1640570804025') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-about:before {
+    content: "\e62f";
+}
+
+.icon-slow:before {
+    content: "\e630";
+}
+
+.icon-a-4K:before {
+    content: "\e631";
+}
+
+.icon-about-1:before {
+    content: "\e632";
+}
+
+.icon-antishaking:before {
+    content: "\e633";
+}
+
+.icon-saved:before {
+    content: "\e634";
+}
+
+.icon-autatake:before {
+    content: "\e635";
+}
+
+.icon-definition:before {
+    content: "\e636";
+}
+
+.icon-pin:before {
+    content: "\e637";
+}
+
+.icon-share-1:before {
+    content: "\e638";
+}
+
+.icon-voice:before {
+    content: "\e639";
+}
+
+.icon-lens:before {
+    content: "\e63a";
+}
+
+.icon-autolens:before {
+    content: "\e63b";
+}
+
+.icon-focustrace:before {
+    content: "\e63c";
+}
+
+.icon-fangxiang-shangxiao:before {
+    content: "\e65f";
+}
+
+.icon-fangxiang-xiaxiao:before {
+    content: "\e660";
+}
+
+.icon-fangxiang-youxiao-1:before {
+    content: "\e661";
+}
+
+.icon-fangxiang-xia:before {
+    content: "\e662";
+}
+
+.icon-tongyong-anquan:before {
+    content: "\e663";
+}
+
+.icon-tongyong-didian:before {
+    content: "\e664";
+}
+
+.icon-tongyong-daima:before {
+    content: "\e665";
+}
+
+.icon-tongyong-biaoqianzu:before {
+    content: "\e666";
+}
+
+.icon-tongyong-fuxuanxuanzhong:before {
+    content: "\e667";
+}
+
+.icon-tongyong-biaoqian2:before {
+    content: "\e668";
+}
+
+.icon-tongyong-anquan2:before {
+    content: "\e669";
+}
+
+.icon-tongyong-bianjiziliao:before {
+    content: "\e66a";
+}
+
+.icon-tongyong-biaoqian:before {
+    content: "\e66b";
+}
+
+.icon-tongyong-diannao2:before {
+    content: "\e66c";
+}
+
+.icon-tongyong-fenxi2:before {
+    content: "\e66d";
+}
+
+.icon-a-tongyong-bingtufenxi2:before {
+    content: "\e66e";
+}
+
+.icon-tongyong-dianhua:before {
+    content: "\e66f";
+}
+
+.icon-fangxiang-youyuan:before {
+    content: "\e670";
+}
+
+.icon-a-tongyong-bingtufenxi:before {
+    content: "\e671";
+}
+
+.icon-tongyong-erweima:before {
+    content: "\e672";
+}
+
+.icon-tongyong-gerenxinxi:before {
+    content: "\e673";
+}
+
+.icon-tongyong-huo:before {
+    content: "\e674";
+}
+
+.icon-tongyong-guanzhu:before {
+    content: "\e675";
+}
+
+.icon-tongyong-shouji:before {
+    content: "\e676";
+}
+
+.icon-tongyong-saoma:before {
+    content: "\e677";
+}
+
+.icon-tongyong-qiehuan2:before {
+    content: "\e678";
+}
+
+.icon-tongyong-shanchu:before {
+    content: "\e679";
+}
+
+.icon-tongyong-sousuo:before {
+    content: "\e67a";
+}
+
+.icon-tongyong-tuichu:before {
+    content: "\e67b";
+}
+
+.icon-tongyong-shandian:before {
+    content: "\e67c";
+}
+
+.icon-tongyong-shezhi2:before {
+    content: "\e67d";
+}
+
+.icon-a-tongyong-shujupaihang:before {
+    content: "\e67e";
+}
+
+.icon-tongyong-shenfen:before {
+    content: "\e67f";
+}
+
+.icon-tongyong-tuichu2:before {
+    content: "\e680";
+}
+
+.icon-down:before {
+    content: "\e619";
+}
+
+.icon-Twitter:before {
+    content: "\e61a";
+}
+
+.icon-up:before {
+    content: "\e61b";
+}
+
+.icon-icon-02:before {
+    content: "\e541";
+}
+
+.icon-a-icon_huaban1:before {
+    content: "\e542";
+}
+
+.icon-icon-08:before {
+    content: "\e543";
+}
+
+.icon-icon-16:before {
+    content: "\e544";
+}
+
+.icon-icon-19:before {
+    content: "\e545";
+}
